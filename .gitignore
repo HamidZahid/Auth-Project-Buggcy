@@ -8,7 +8,7 @@ client/.env
 server/.env
 /.pnp
 .pnp.js
-
+vercel.son
 # testing
 /coverage
 
