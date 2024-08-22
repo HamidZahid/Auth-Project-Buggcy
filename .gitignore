@@ -3,16 +3,16 @@
 # dependencies
 client/node_modules
 server/node_modules
-# server/config.js
-# client/.env
-# server/.env
+server/config.js
+client/.env
+server/.env
 /.pnp
 .pnp.js
 # testing
 /coverage
 
 # production
-
+client/build
 
 # misc
 .DS_Store
