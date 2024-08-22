@@ -14,8 +14,8 @@ config.js
 
 export default {
     JWT_SECRET : "<secret>", get it by using bash command openssl 
-    EMAIL: "steve.franecki@ethereal.email", // testing email & password get it from nodemailer
-    PASSWORD : "sMf46xCzrvdrxvuagc",
+    EMAIL: "juston.lehner@ethereal.email", // testing email & password get it from nodemailer
+    PASSWORD : "Fpszad3A3ArWfdFHt3",
     ATLAS_URI: "<MONGODB_ATLAS_URI>" get it from mongodb 
 }
 
