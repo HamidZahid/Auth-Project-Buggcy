@@ -10,6 +10,7 @@ import Profile from './components/Profile';
 import Recovery from './components/Recovery';
 import Reset from './components/Reset';
 import PageNotFound from './components/PageNotFound';
+import UserTable from './components/UserTable';
 
 
 /** auth middleware */
@@ -44,6 +45,10 @@ const router = createBrowserRouter([
     {
         path : '*',
         element : <PageNotFound></PageNotFound>
+    },
+    {
+        path : '/usertable',
+        element : <UserTable></UserTable>
     },
 ])
 
