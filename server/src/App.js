@@ -6,7 +6,7 @@ export default function App() {
     <main>
       <>
         
-        
+        <h1> Hello World </>
       </>
     </main>
   );
